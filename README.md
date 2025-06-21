@@ -1,3 +1,4 @@
+![Screenshot 2025-05-27 174326](https://github.com/user-attachments/assets/078c1bcf-613d-437e-91bd-75c8624772de)
 GoFood 🍔🍕 – Online Food Ordering System with Chatbot Integration
 GoFood is a smart, AI-powered web application designed to streamline the food ordering process for users and simplify operations for administrators. The project integrates a user-friendly interface with a responsive chatbot to assist customers in real time.
 
